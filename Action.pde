@@ -1,4 +1,0 @@
-interface Action{
-  
-  void execute();
-}
